@@ -58,6 +58,10 @@
 # Model Interpretation –
 -	Model interpretation is done using SHAP values.
 
+![SHAP](https://user-images.githubusercontent.com/82714026/146308072-89f268f3-c742-41ab-9504-549b8bc61c52.png)
+
+
+
 # Metric of Evaluation – 
 -	Confusion Matrix
 -	Precision 
